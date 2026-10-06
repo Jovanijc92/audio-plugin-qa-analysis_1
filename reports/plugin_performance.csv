@@ -1,0 +1,9 @@
+plugin_name,total_tests,failed_tests,failure_rate_pct,total_bugs,open_bugs,high_severity_bugs,critical_bugs
+Northwind Synth (3.1.0),74,17,23.0,16,3,3,2
+Northwind Synth (3.0.2),50,9,18.0,8,0,4,0
+Lantern Delay (1.2.0),52,9,17.3,9,0,2,0
+Iron Gate Compressor (2.1.0),54,9,16.7,7,0,3,1
+Velvet Curve EQ (1.4.2),56,9,16.1,9,1,2,0
+Warm Tape Saturator (1.0.5),54,8,14.8,8,1,0,0
+Glass Shelf EQ (2.0.3),55,7,12.7,6,1,0,0
+Harbor Plate Reverb (1.8.1),55,6,10.9,4,0,1,0

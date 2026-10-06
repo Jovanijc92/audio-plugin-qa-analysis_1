@@ -1,0 +1,11 @@
+bug_category,bug_count,open_bugs,resolved_bugs,high_severity_bugs,critical_bugs,avg_resolution_days
+GUI Issue,11,2,8,0,0,7.9
+Installation Issue,10,0,8,2,0,9.3
+Compatibility Issue,9,1,8,2,0,8.8
+Automation Issue,8,1,6,3,1,10.7
+Audio Glitch,6,0,6,1,0,8.5
+CPU Performance,6,0,4,0,2,13.8
+Preset Issue,6,0,5,1,0,7.4
+Plugin Scan Failure,4,1,2,1,0,12.5
+Session Recall Issue,4,0,2,3,0,16.0
+Crash,3,1,2,2,0,19.5

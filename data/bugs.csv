@@ -1,0 +1,68 @@
+bug_id,test_id,plugin_id,bug_category,severity,bug_status,date_reported,date_resolved,resolution_days
+1,2,1,Automation Issue,High,Resolved,2025-11-29,2025-12-17,
+2,23,1,Preset Issue,Low,Resolved,2025-12-18,2025-12-25,7
+3,24,1,Automation Issue,medium,Resolved,2025-10-18,2025-10-24,6
+4,28,1,Installation Issue,Medium,In Progress,2026-02-28,,
+5,36,1,Installation Issue,Medium,Resolved,2025-11-30,2025-12-10,10
+6,46,1,Compatibility Issue,Medium,Resolved,2025-12-07,2025-12-14,7
+7,52,1,GUI Issue,Low,Resolved,2026-01-22,2026-01-27,5
+8,53,1,Installation Issue,Medium,Resolved,2026-02-17,2026-02-26,9
+9,55,1,Compatibility Issue,High,open,2026-03-24,,
+10,73,2,Compatibility Issue,High,Resolved,2026-03-06,2026-03-22,16
+11,89,2,Preset Issue,High,Resolved,2025-11-24,2025-12-07,13
+12,91,2,CPU Performance,Medium,In Progress,2026-03-16,,
+13,92,2,Installation Issue,Medium,Resolved,2025-10-06,2025-10-16,10
+14,93,2,Preset Issue,Medium,In Progress,2026-03-29,,
+15,99,2,CPU Performance,Critical,In Progress,2026-01-26,,
+16,102,2,Session Recall Issue,High,In Progress,2026-01-27,,
+17,112,3,Installation Issue,High,Resolved,2025-11-02,2025-11-16,14
+18,121,3,Session Recall Issue,Medium,Resolved,2026-03-10,2026-03-22,12
+19,127,3,Compatibility Issue,Medium,Resolved,2026-02-10,2026-02-18,8
+20,145,3,Installation Issue,Low,In Progress,2025-10-20,,
+21,169,4,GUI Issue,Medium,Resolved,2026-02-04,2026-02-15,11
+22,174,4,Audio Glitch,Low,Resolved,2025-11-01,2025-11-06,5
+23,178,4,Plugin Scan Failure,High,Resolved,2025-11-14,2025-11-28,14
+24,184,4,Compatibility Issue,Medium,Resolved,2026-03-05,2026-03-18,13
+25,194,4,Automation Issue,Low,In Progress,2025-11-27,,
+26,197,4,GUI Issue,Low,In Progress,2026-03-18,,
+27,198,4,Audio Glitch,Medium,Resolved,2026-01-05,2026-01-11,6
+28,200,4,Installation Issue,High,Resolved,2026-01-17,2026-02-01,15
+29,210,4,CPU Performance,Medium,Resolved,2026-02-13,2026-02-24,11
+30,222,5,Installation Issue,Low,Resolved,2025-12-12,2025-12-18,6
+31,225,5,Crash,Low,Open,2026-03-14,2026-03-20,6
+32,228,5,Compatibility Issue,Low,Resolved,2025-10-26,2025-10-29,3
+33,241,5,Compatibility Issue,Low,Resolved,2025-11-08,2025-11-10,2
+34,251,5,Compatibility Issue,Medium,Resolved,2026-01-10,2026-01-19,9
+35,262,5,Installation Issue,Low,Resolved,2026-01-04,2026-01-07,3
+36,266,5,Preset Issue,Low,Resolved,2025-11-14,2025-11-17,3
+37,269,5,Preset Issue,Low,Resolved,2025-11-05,2025-11-14,9
+38,274,6,Installation Issue,Low,Resolved,2025-11-12,2025-11-19,7
+39,276,6,Automation Issue,High,Resolved,2026-02-14,2026-02-27,13
+40,278,6,Compatibility Issue,Medium,Resolved,2025-10-12,2025-10-24,12
+41,284,6,Crash,High,Resolved,2026-03-07,2026-03-28,21
+42,310,6,Crash,High,Resolved,2025-11-29,2025-12-17,18
+43,311,6,Audio Glitch,Medium,Resolved,2026-02-18,2026-02-28,10
+44,314,6,Session Recall Issue,High,Resolved,2025-11-15,2025-12-05,20
+45,316,6,Automation Issue,Low,Resolved,2026-01-25,2026-01-29,4
+46,325,7,Plugin Scan Failure,Medium,Open,2026-03-04,,
+47,336,7,Session Recall Issue,High,In Progress,2026-01-02,,
+48,347,7,GUI Issue,Medium,Resolved,2026-01-14,2026-01-27,13
+49,349,7,Plugin Scan Failure,Medium,Resolved,2025-12-08,2025-12-19,11
+50,350,7,Audio Glitch,Medium,Resolved,2025-11-28,2025-12-07,9
+51,354,7,GUI Issue,Medium,Resolved,2026-02-17,2026-02-27,10
+52,358,7,Automation Issue,Critical,Open,2026-03-23,,
+53,361,7,CPU Performance,Critical,Resolved,2025-12-23,2026-01-16,24
+54,362,7,Audio Glitch,Medium,Resolved,2026-02-21,2026-02-27,6
+55,369,7,Automation Issue,High,Resolved,2025-12-31,2026-01-19,19
+56,378,7,Audio Glitch,High,Resolved,2026-01-20,2026-02-04,15
+57,380,7,Plugin Scan Failure,Medium,In Progress,2026-02-18,,
+58,382,7,GUI Issue,Medium,Resolved,2026-02-24,2026-03-04,8
+59,384,7,GUI Issue,Low,Open,2026-03-24,,
+60,385,7,GUI Issue,Low,Resolved,2026-01-21,2026-01-23,2
+61,395,7,Preset Issue,Low,Resolved,2025-12-09,2025-12-14,5
+62,411,8,GUI Issue,Low,Resolved,2026-03-02,2026-03-09,7
+63,432,8,CPU Performance,Medium,Resolved,2026-01-26,2026-02-03,8
+64,438,8,GUI Issue,Low,Resolved,2025-11-03,2025-11-10,7
+65,441,8,Automation Issue,Low,Resolved,2025-12-29,2026-01-02,4
+66,444,8,GUI Issue,Medium,Open,2026-03-26,,
+67,449,8,CPU Performance,Medium,Resolved,2025-12-07,2025-12-19,12

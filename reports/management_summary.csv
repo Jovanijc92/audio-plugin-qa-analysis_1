@@ -1,0 +1,13 @@
+metric,value
+Total QA Tests,450
+Passed Tests,376
+Failed Tests,74
+Overall Pass Rate (%),83.6
+Total Bugs,67
+Open Bugs,6
+In Progress Bugs,10
+Resolved Bugs,51
+Unresolved Bugs,16
+High Severity Bugs,15
+Critical Bugs,3
+Average Bug Resolution Days,10.0

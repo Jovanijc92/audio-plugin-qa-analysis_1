@@ -1,0 +1,7 @@
+daw,plugin_format,total_tests,failed_tests,failure_rate_pct
+Ableton Live,AU,9,3,33.3
+REAPER,VST3,92,21,22.8
+Logic Pro,AU,70,14,20.0
+Pro Tools,AAX,147,23,15.6
+REAPER,AU,10,1,10.0
+Ableton Live,VST3,122,12,9.8

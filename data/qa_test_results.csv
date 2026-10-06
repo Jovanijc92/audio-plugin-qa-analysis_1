@@ -1,0 +1,452 @@
+test_id,plugin_id,test_date,operating_system,daw,plugin_format,test_category,test_status,test_duration_minutes
+1,1,2026-03-23,macOS 15,Logic Pro,AU,GUI,pass,
+2,1,2025-11-29,macOS 15, Pro Tools ,AAX,Automation,FAIL,
+3,1,2025-11-26,Windows 10, Pro Tools ,AAX,Plugin Loading,pass,
+4,1,2026-03-28,Windows 10, Pro Tools ,AAX,Session Recall,Pass,
+5,1,2025-10-24,Windows 10,Pro Tools,AAX,Plugin Loading,Pass,
+6,1,2026-01-26,Windows 10,Pro Tools,AAX,GUI,Pass,11
+7,1,2026-02-25,macOS 15,reaper,vst3,Automation,Pass,21
+8,1,2025-11-29,Windows11,Pro Tools,AAX,Audio Processing,Pass,14
+9,1,2026-01-03,macOS 14,Pro Tools,AAX,Presets,Pass,10
+10,1,2026-03-05,Windows 10,Ableton Live,vst3,Audio Processing,Pass,14
+11,1,2026-03-13,macOS 15,Pro Tools,AAX,Plugin Loading,Pass,9
+12,1,2025-11-28,macOS 15,Logic Pro,AU,GUI,Pass,11
+13,1,2025-12-20,macOS 14,Ableton Live,VST3,Installation,Pass,17
+14,1,2025-12-07,Windows11,Ableton Live,VST3,Session Recall,Pass,14
+15,1,2026-02-27,Windows11,reaper,VST3,Automation,Pass,23
+16,1,2025-10-13,Windows 10,Pro Tools,AAX,Compatibility,Pass,17
+17,1,2026-01-07,macOS 14,Logic Pro,AU,Plugin Loading,Pass,6
+18,1,2026-03-24,Windows 10,reaper,VST3,Automation,Pass,10
+19,1,2025-12-15,macOS 15,Ableton Live,VST3,Plugin Loading,Pass,6
+20,1,2026-02-06,Windows 10,Ableton Live,VST3,Compatibility,Pass,23
+21,1,2026-02-07,macOS 15,Pro Tools,AAX,Plugin Scan,Pass,15
+22,1,2026-02-13,macOS 15,Logic Pro,AU,CPU Performance,Pass,39
+23,1,2025-12-18,macOS 14,Pro Tools,AAX,Presets,Fail,19
+24,1,2025-10-18,Windows11,Pro Tools,AAX,Automation,Fail,31
+25,1,2025-11-12,macOS 14,Pro Tools,AAX,Plugin Scan,Pass,13
+26,1,2026-03-26,Windows 11,REAPER,VST3,Presets,Pass,16
+27,1,2026-02-10,Windows 11,Pro Tools,AAX,Compatibility,Pass,29
+28,1,2026-02-28,Windows 10,Pro Tools,AAX,Installation,Fail,17
+29,1,2025-12-24,Windows 11,Pro Tools,AAX,Audio Processing,Pass,13
+30,1,2026-02-24,Windows 11,Pro Tools,AAX,Audio Processing,Pass,16
+31,1,2025-10-25,macOS 15,Logic Pro,AU,Presets,Pass,9
+32,1,2026-03-22,macOS 15,Logic Pro,AU,GUI,Pass,11
+33,1,2025-12-03,macOS 15,Ableton Live,VST3,Audio Processing,Pass,15
+34,1,2025-12-03,Windows 11,Ableton Live,VST3,Plugin Scan,Pass,12
+35,1,2025-10-13,macOS 14,Logic Pro,AU,CPU Performance,Pass,18
+36,1,2025-11-30,macOS 15,Pro Tools,AAX,Installation,Fail,26
+37,1,2025-11-12,Windows 11,Ableton Live,VST3,Plugin Loading,Pass,5
+38,1,2025-12-13,Windows 10,REAPER,VST3,Plugin Loading,Pass,12
+39,1,2025-11-09,Windows 10,REAPER,VST3,Compatibility,Pass,30
+40,1,2025-12-20,Windows 11,Pro Tools,AAX,Installation,Pass,8
+41,1,2025-10-15,Windows 11,Ableton Live,VST3,Presets,Pass,10
+42,1,2026-01-12,macOS 14,Logic Pro,AU,Plugin Loading,Pass,8
+43,1,2026-01-16,Windows 11,REAPER,VST3,Plugin Loading,Pass,6
+44,1,2025-12-01,macOS 15,Pro Tools,AAX,GUI,Pass,20
+45,1,2025-10-03,Windows 11,Pro Tools,AAX,Audio Processing,Pass,14
+46,1,2025-12-07,Windows 10,REAPER,VST3,Compatibility,Fail,25
+47,1,2025-11-10,Windows 11,Pro Tools,AAX,Installation,Pass,12
+48,1,2026-03-20,Windows 10,Ableton Live,VST3,GUI,Pass,10
+49,1,2025-12-07,macOS 14,Logic Pro,AU,Audio Processing,Pass,16
+50,1,2025-12-27,Windows 11,Pro Tools,AAX,Automation,Pass,16
+51,1,2025-10-24,Windows 11,Ableton Live,VST3,Plugin Loading,Pass,5
+52,1,2026-01-22,macOS 15,Ableton Live,VST3,GUI,Fail,19
+53,1,2026-02-17,macOS 15,Pro Tools,AAX,Installation,Fail,20
+54,1,2025-12-18,Windows 11,Ableton Live,VST3,Automation,Pass,11
+55,1,2026-03-24,Windows 10,REAPER,VST3,Compatibility,Fail,27
+56,1,2026-03-08,Windows 11,Pro Tools,AAX,CPU Performance,Pass,28
+57,2,2026-01-14,macOS 15,REAPER,VST3,Plugin Loading,Pass,7
+58,2,2025-12-08,Windows 11,REAPER,VST3,GUI,Pass,17
+59,2,2025-11-21,Windows 11,Ableton Live,VST3,GUI,Fail,26
+60,2,2025-11-27,macOS 14,Pro Tools,AAX,GUI,Pass,17
+61,2,2025-12-29,Windows 11,Pro Tools,AAX,GUI,Pass,18
+62,2,2025-10-30,macOS 15,Pro Tools,AAX,Compatibility,Pass,15
+63,2,2025-10-28,macOS 14,Logic Pro,AU,Automation,Pass,11
+64,2,2025-10-30,macOS 15,Logic Pro,AU,CPU Performance,Pass,31
+65,2,2026-02-11,Windows 10,Ableton Live,VST3,Plugin Loading,Pass,5
+66,2,2026-01-02,macOS 14,Pro Tools,AAX,Audio Processing,Pass,18
+67,2,2025-12-16,Windows 10,REAPER,VST3,Compatibility,Pass,18
+68,2,2025-11-19,Windows 10,Ableton Live,VST3,GUI,Pass,14
+69,2,2025-12-17,Windows 10,REAPER,VST3,Audio Processing,Pass,30
+70,2,2026-01-22,Windows 10,REAPER,VST3,GUI,Fail,23
+71,2,2025-11-13,Windows 10,Pro Tools,AAX,Presets,Pass,20
+72,2,2025-11-30,macOS 15,Logic Pro,AU,Audio Processing,Pass,14
+73,2,2026-03-06,macOS 15,Logic Pro,AU,Plugin Loading,Fail,11
+74,2,2026-03-28,macOS 14,Logic Pro,AU,GUI,Pass,16
+75,2,2026-01-17,Windows 10,Ableton Live,VST3,Plugin Scan,Pass,6
+76,2,2025-12-03,Windows 11,REAPER,VST3,Audio Processing,Pass,29
+77,2,2026-02-21,macOS 14,Logic Pro,AU,Plugin Scan,Pass,13
+78,2,2026-01-18,macOS 15,REAPER,AU,Audio Processing,Pass,28
+79,2,2026-01-24,macOS 14,Pro Tools,AAX,Session Recall,Pass,25
+80,2,2026-02-02,Windows 11,Pro Tools,AAX,Audio Processing,Pass,28
+81,2,2025-12-25,macOS 15,Logic Pro,AU,Installation,Pass,12
+82,2,2026-03-30,Windows 11,Ableton Live,VST3,Plugin Scan,Pass,7
+83,2,2025-11-22,Windows 11,Ableton Live,VST3,GUI,Pass,11
+84,2,2026-02-25,macOS 14,Pro Tools,AAX,CPU Performance,Pass,15
+85,2,2026-02-15,Windows 10,Pro Tools,AAX,GUI,Pass,23
+86,2,2025-12-09,macOS 15,Pro Tools,AAX,Automation,Pass,17
+87,2,2025-11-12,Windows 10,Pro Tools,AAX,GUI,Pass,22
+88,2,2025-10-22,macOS 14,REAPER,AU,Automation,Pass,10
+89,2,2025-11-24,macOS 15,Logic Pro,AU,Presets,Fail,16
+90,2,2025-12-04,Windows 10,Pro Tools,AAX,Session Recall,Pass,23
+91,2,2026-03-16,macOS 14,Pro Tools,AAX,CPU Performance,Fail,27
+92,2,2025-10-06,Windows 11,REAPER,VST3,Installation,Fail,12
+93,2,2026-03-29,macOS 15,Logic Pro,AU,Presets,Fail,14
+94,2,2025-11-11,Windows 11,Ableton Live,VST3,Automation,Pass,13
+95,2,2026-01-05,macOS 14,Logic Pro,AU,Installation,Pass,18
+96,2,2025-12-02,Windows 10,Ableton Live,VST3,Installation,Pass,18
+97,2,2026-02-22,Windows 11,REAPER,VST3,Session Recall,Pass,13
+98,2,2026-03-15,macOS 15,Logic Pro,AU,Presets,Pass,16
+99,2,2026-01-26,Windows 10,REAPER,VST3,CPU Performance,Fail,31
+100,2,2026-03-07,macOS 15,Pro Tools,AAX,Audio Processing,Pass,20
+101,2,2026-03-01,macOS 14,Pro Tools,AAX,Presets,Pass,19
+102,2,2026-01-27,Windows 11,REAPER,VST3,Session Recall,Fail,25
+103,2,2025-11-24,macOS 15,Ableton Live,VST3,Presets,Pass,15
+104,2,2026-02-20,Windows 10,Pro Tools,AAX,GUI,Pass,18
+105,2,2026-02-20,Windows 11,REAPER,VST3,Plugin Scan,Pass,12
+106,2,2025-12-15,macOS 15,Ableton Live,VST3,Presets,Pass,9
+107,2,2026-02-19,Windows 11,Ableton Live,VST3,GUI,Pass,25
+108,2,2025-12-09,macOS 15,Pro Tools,AAX,Audio Processing,Pass,26
+109,2,2026-03-26,Windows 11,Pro Tools,AAX,Audio Processing,Pass,29
+110,2,2026-02-12,Windows 11,Pro Tools,AAX,Presets,Pass,20
+111,3,2025-10-04,macOS 15,REAPER,AU,GUI,Pass,19
+112,3,2025-11-02,macOS 15,Logic Pro,AU,Installation,Fail,17
+113,3,2026-01-21,macOS 15,Ableton Live,VST3,Installation,Pass,15
+114,3,2025-10-17,Windows 10,REAPER,VST3,Plugin Loading,Pass,6
+115,3,2026-02-22,Windows 10,Pro Tools,AAX,Audio Processing,Fail,22
+116,3,2026-03-05,macOS 14,Logic Pro,AU,Plugin Loading,Pass,11
+117,3,2026-02-28,macOS 15,Ableton Live,VST3,GUI,Pass,19
+118,3,2025-11-23,macOS 14,Logic Pro,AU,Audio Processing,Pass,15
+119,3,2025-10-20,macOS 15,Logic Pro,AU,Plugin Scan,Pass,13
+120,3,2025-11-29,Windows 11,Ableton Live,VST3,Audio Processing,Pass,13
+121,3,2026-03-10,Windows 11,Pro Tools,AAX,Session Recall,Fail,19
+122,3,2025-12-08,macOS 15,Ableton Live,VST3,Plugin Scan,Pass,7
+123,3,2026-01-21,macOS 14,Logic Pro,AU,Plugin Loading,Pass,9
+124,3,2026-02-16,Windows 11,Ableton Live,VST3,Audio Processing,Pass,28
+125,3,2026-03-04,Windows 10,Pro Tools,AAX,Installation,Pass,13
+126,3,2026-02-28,Windows 11,Pro Tools,AAX,Compatibility,Pass,33
+127,3,2026-02-10,macOS 14,REAPER,VST3,Plugin Loading,Fail,10
+128,3,2025-10-24,macOS 15,REAPER,VST3,Automation,Pass,25
+129,3,2026-01-14,Windows 10,Ableton Live,VST3,GUI,Fail,17
+130,3,2025-10-10,macOS 15,Logic Pro,AU,Compatibility,Pass,32
+131,3,2026-02-09,Windows 10,Pro Tools,AAX,GUI,Pass,22
+132,3,2025-11-18,macOS 14,Logic Pro,AU,Session Recall,Pass,11
+133,3,2025-11-22,Windows 10,Ableton Live,VST3,Presets,Pass,8
+134,3,2025-11-01,Windows 11,Pro Tools,AAX,GUI,Pass,25
+135,3,2026-02-19,Windows 11,Ableton Live,VST3,CPU Performance,Pass,24
+136,3,2026-01-27,Windows 11,Ableton Live,VST3,Plugin Loading,Pass,6
+137,3,2026-01-15,macOS 14,Ableton Live,VST3,Compatibility,Pass,23
+138,3,2025-10-18,macOS 14,REAPER,VST3,Automation,Pass,14
+139,3,2025-10-01,Windows 11,REAPER,VST3,GUI,Pass,18
+140,3,2025-11-08,Windows 11,Pro Tools,AAX,Automation,Pass,25
+141,3,2026-01-25,Windows 10,Ableton Live,VST3,GUI,Pass,22
+142,3,2025-10-12,macOS 14,REAPER,AU,Plugin Loading,Pass,11
+143,3,2025-11-08,Windows 11,Ableton Live,VST3,Compatibility,Pass,35
+144,3,2026-01-21,Windows 10,Pro Tools,AAX,Presets,Pass,9
+145,3,2025-10-20,Windows 11,REAPER,VST3,Installation,Fail,19
+146,3,2025-12-24,Windows 10,REAPER,VST3,GUI,Pass,12
+147,3,2026-02-16,macOS 14,REAPER,VST3,GUI,Pass,25
+148,3,2025-10-24,Windows 11,Pro Tools,AAX,Audio Processing,Pass,19
+149,3,2025-11-12,Windows 10,Pro Tools,AAX,Audio Processing,Pass,26
+150,3,2026-01-19,macOS 15,REAPER,VST3,CPU Performance,Pass,26
+151,3,2025-11-14,Windows 11,Ableton Live,VST3,Automation,Pass,15
+152,3,2025-11-06,Windows 11,REAPER,VST3,Audio Processing,Pass,30
+153,3,2026-01-28,Windows 11,Ableton Live,VST3,Presets,Pass,20
+154,3,2025-12-16,macOS 14,Ableton Live,VST3,Presets,Pass,17
+155,3,2026-01-07,macOS 15,Pro Tools,AAX,Plugin Loading,Pass,8
+156,3,2026-03-29,macOS 14,Logic Pro,AU,GUI,Pass,19
+157,3,2026-03-25,Windows 11,REAPER,VST3,Audio Processing,Pass,30
+158,3,2025-11-28,macOS 15,REAPER,AU,Audio Processing,Pass,21
+159,3,2026-03-10,macOS 15,Logic Pro,AU,Audio Processing,Pass,16
+160,3,2026-02-26,Windows 11,Ableton Live,VST3,Installation,Pass,8
+161,3,2025-11-14,Windows 10,Pro Tools,AAX,Compatibility,Pass,28
+162,3,2025-11-12,Windows 11,REAPER,VST3,Session Recall,Pass,18
+163,3,2025-12-26,Windows 11,REAPER,VST3,Presets,Pass,19
+164,3,2026-03-23,macOS 14,Pro Tools,AAX,Installation,Pass,11
+165,3,2026-01-10,macOS 15,REAPER,AU,CPU Performance,Pass,40
+166,4,2025-12-07,Windows 11,Ableton Live,VST3,Presets,Pass,18
+167,4,2026-03-08,macOS 15,Ableton Live,AU,Plugin Scan,Pass,5
+168,4,2026-03-12,macOS 14,Pro Tools,AAX,Compatibility,Pass,17
+169,4,2026-02-04,macOS 14,REAPER,VST3,GUI,Fail,13
+170,4,2026-03-21,Windows 11,Pro Tools,AAX,Automation,Pass,21
+171,4,2026-03-17,macOS 14,Ableton Live,VST3,Automation,Pass,23
+172,4,2026-03-26,Windows 11,Ableton Live,VST3,GUI,Pass,11
+173,4,2026-03-25,Windows 10,Ableton Live,VST3,Compatibility,Pass,18
+174,4,2025-11-01,Windows 10,REAPER,VST3,Audio Processing,Fail,21
+175,4,2025-10-13,macOS 14,Ableton Live,VST3,Plugin Loading,Pass,5
+176,4,2026-02-19,macOS 15,Logic Pro,AU,Plugin Scan,Pass,6
+177,4,2026-03-02,Windows 11,Pro Tools,AAX,Session Recall,Pass,14
+178,4,2025-11-14,Windows 11,REAPER,VST3,Plugin Scan,Fail,15
+179,4,2026-02-28,Windows 11,REAPER,VST3,Plugin Scan,Pass,8
+180,4,2025-10-30,Windows 10,Pro Tools,AAX,Installation,Pass,16
+181,4,2026-01-24,macOS 15,Pro Tools,AAX,CPU Performance,Pass,18
+182,4,2026-02-11,Windows 10,REAPER,VST3,Installation,Pass,18
+183,4,2026-01-18,Windows 11,Ableton Live,VST3,Installation,Pass,14
+184,4,2026-03-05,macOS 15,Pro Tools,AAX,Compatibility,Fail,19
+185,4,2026-01-06,Windows 11,Pro Tools,AAX,Audio Processing,Pass,22
+186,4,2026-03-29,macOS 14,Pro Tools,AAX,Presets,Pass,9
+187,4,2026-01-19,Windows 11,Ableton Live,VST3,Session Recall,Pass,16
+188,4,2025-10-25,Windows 10,Pro Tools,AAX,GUI,Pass,23
+189,4,2025-10-18,Windows 11,Pro Tools,AAX,Plugin Loading,Pass,12
+190,4,2025-11-03,Windows 11,Pro Tools,AAX,Presets,Pass,13
+191,4,2026-01-14,macOS 15,Pro Tools,AAX,Automation,Pass,13
+192,4,2025-10-14,Windows 10,Ableton Live,VST3,CPU Performance,Pass,38
+193,4,2025-11-27,macOS 14,Ableton Live,VST3,Automation,Pass,25
+194,4,2025-11-27,macOS 14,Logic Pro,AU,Automation,Fail,22
+195,4,2026-02-20,macOS 14,REAPER,AU,CPU Performance,Pass,35
+196,4,2025-12-09,Windows 11,REAPER,VST3,Session Recall,Pass,15
+197,4,2026-03-18,macOS 15,Logic Pro,AU,GUI,Fail,18
+198,4,2026-01-05,Windows 10,Pro Tools,AAX,Audio Processing,Fail,29
+199,4,2025-10-14,Windows 10,Pro Tools,AAX,GUI,Pass,12
+200,4,2026-01-17,Windows 11,REAPER,VST3,Installation,Fail,20
+201,4,2025-12-28,Windows 10,Ableton Live,VST3,GUI,Pass,13
+202,4,2025-10-12,Windows 10,Pro Tools,AAX,Audio Processing,Pass,21
+203,4,2025-11-05,Windows 11,REAPER,VST3,Installation,Pass,11
+204,4,2025-11-14,macOS 15,Logic Pro,AU,Plugin Scan,Pass,11
+205,4,2025-10-19,Windows 11,Ableton Live,VST3,Plugin Loading,Pass,10
+206,4,2025-12-20,Windows 10,REAPER,VST3,Presets,Pass,9
+207,4,2026-01-12,macOS 15,Pro Tools,AAX,Audio Processing,Pass,15
+208,4,2026-01-01,Windows 11,Pro Tools,AAX,CPU Performance,Pass,37
+209,4,2026-01-10,Windows 11,REAPER,VST3,Plugin Loading,Pass,6
+210,4,2026-02-13,macOS 14,Ableton Live,VST3,CPU Performance,Fail,35
+211,4,2025-11-30,Windows 10,REAPER,VST3,GUI,Pass,14
+212,4,2025-11-15,Windows 11,Pro Tools,AAX,Plugin Loading,Pass,6
+213,4,2026-03-10,macOS 14,Ableton Live,VST3,Automation,Pass,20
+214,4,2025-12-10,Windows 11,Ableton Live,VST3,Presets,Pass,20
+215,4,2025-10-15,macOS 15,Logic Pro,AU,Installation,Pass,8
+216,4,2026-03-07,Windows 10,Pro Tools,AAX,Audio Processing,Pass,14
+217,4,2026-01-24,macOS 15,Pro Tools,AAX,Automation,Pass,11
+218,5,2025-10-16,macOS 14,Pro Tools,AAX,Plugin Loading,Pass,7
+219,5,2026-02-07,Windows 10,REAPER,VST3,Session Recall,Pass,12
+220,5,2026-02-11,macOS 15,Logic Pro,AU,Audio Processing,Pass,28
+221,5,2026-03-23,macOS 15,Pro Tools,AAX,Compatibility,Pass,25
+222,5,2025-12-12,macOS 15,Ableton Live,VST3,Installation,Fail,21
+223,5,2025-12-25,Windows 11,REAPER,VST3,Compatibility,Pass,19
+224,5,2026-03-28,Windows 11,Ableton Live,VST3,Compatibility,Pass,35
+225,5,2026-03-14,macOS 15,Logic Pro,AU,Audio Processing,Fail,32
+226,5,2026-03-15,macOS 15,Ableton Live,VST3,Session Recall,Pass,12
+227,5,2025-12-27,macOS 15,Pro Tools,AAX,Installation,Pass,11
+228,5,2025-10-26,macOS 14,Pro Tools,AAX,Plugin Loading,Fail,8
+229,5,2026-03-08,Windows 10,Ableton Live,VST3,Audio Processing,Pass,22
+230,5,2026-01-21,Windows 11,Ableton Live,VST3,Plugin Loading,Pass,7
+231,5,2026-01-23,Windows 11,Ableton Live,VST3,Audio Processing,Pass,21
+232,5,2026-01-03,Windows 11,Pro Tools,AAX,Compatibility,Pass,21
+233,5,2026-01-06,macOS 15,Pro Tools,AAX,Presets,Pass,20
+234,5,2025-12-04,Windows 10,Ableton Live,VST3,Plugin Loading,Pass,7
+235,5,2025-12-12,Windows 11,Ableton Live,VST3,GUI,Pass,13
+236,5,2025-10-24,Windows 11,Pro Tools,AAX,Presets,Pass,14
+237,5,2026-01-15,macOS 14,Logic Pro,AU,Presets,Pass,8
+238,5,2025-11-27,Windows 11,Ableton Live,VST3,Plugin Loading,Pass,10
+239,5,2025-11-05,Windows 11,REAPER,VST3,Session Recall,Pass,14
+240,5,2026-03-30,Windows 11,REAPER,VST3,Presets,Pass,20
+241,5,2025-11-08,Windows 10,Ableton Live,VST3,Compatibility,Fail,27
+242,5,2025-11-01,macOS 15,Ableton Live,VST3,Plugin Scan,Pass,9
+243,5,2026-02-05,Windows 11,Ableton Live,VST3,CPU Performance,Pass,18
+244,5,2025-12-14,macOS 15,Logic Pro,AU,Automation,Pass,14
+245,5,2026-02-12,Windows 10,Ableton Live,VST3,Plugin Loading,Pass,6
+246,5,2026-01-08,macOS 14,Logic Pro,AU,Automation,Pass,10
+247,5,2025-12-31,macOS 14,Logic Pro,AU,GUI,Pass,10
+248,5,2025-12-25,macOS 15,Logic Pro,AU,Audio Processing,Pass,30
+249,5,2026-03-28,Windows 11,Pro Tools,AAX,GUI,Pass,24
+250,5,2025-10-10,Windows 10,Pro Tools,AAX,Plugin Scan,Pass,12
+251,5,2026-01-10,Windows 11,Pro Tools,AAX,Plugin Loading,Fail,13
+252,5,2025-12-13,macOS 14,Pro Tools,AAX,Plugin Loading,Pass,8
+253,5,2026-01-03,Windows 10,REAPER,VST3,Session Recall,Pass,13
+254,5,2025-11-17,Windows 10,Ableton Live,VST3,Presets,Pass,13
+255,5,2026-01-17,Windows 10,Ableton Live,VST3,Compatibility,Pass,17
+256,5,2025-10-27,Windows 11,Ableton Live,VST3,CPU Performance,Pass,25
+257,5,2025-11-12,Windows 11,Ableton Live,VST3,GUI,Pass,23
+258,5,2026-03-07,macOS 15,Logic Pro,AU,Installation,Pass,13
+259,5,2026-03-21,macOS 14,Logic Pro,AU,Compatibility,Pass,17
+260,5,2025-11-06,macOS 15,Pro Tools,AAX,CPU Performance,Pass,15
+261,5,2026-01-02,macOS 14,Ableton Live,VST3,Plugin Scan,Pass,15
+262,5,2026-01-04,Windows 10,REAPER,VST3,Installation,Fail,17
+263,5,2026-03-16,Windows 10,Pro Tools,AAX,Plugin Scan,Pass,10
+264,5,2026-01-08,Windows 11,REAPER,VST3,Installation,Pass,16
+265,5,2026-03-06,macOS 14,Logic Pro,AU,CPU Performance,Pass,21
+266,5,2025-11-14,Windows 11,REAPER,VST3,Presets,Fail,12
+267,5,2026-03-20,macOS 14,Pro Tools,AAX,Plugin Scan,Pass,10
+268,5,2026-03-31,Windows 10,Pro Tools,AAX,Automation,Pass,15
+269,5,2025-11-05,macOS 14,Ableton Live,AU,Presets,Fail,17
+270,5,2026-02-19,Windows 11,Ableton Live,VST3,GUI,Pass,24
+271,5,2026-01-31,Windows 11,REAPER,VST3,Installation,Pass,19
+272,6,2025-10-19,macOS 15,Ableton Live,AU,Installation,Pass,18
+273,6,2025-11-03,Windows 10,Ableton Live,VST3,GUI,Pass,15
+274,6,2025-11-12,Windows 10,REAPER,VST3,Installation,Fail,12
+275,6,2025-10-21,Windows 11,REAPER,VST3,Plugin Loading,Pass,9
+276,6,2026-02-14,Windows 11,Ableton Live,VST3,Automation,Fail,23
+277,6,2026-03-18,Windows 11,Ableton Live,VST3,Automation,Pass,15
+278,6,2025-10-12,macOS 15,REAPER,VST3,Compatibility,Fail,15
+279,6,2026-02-05,macOS 14,Ableton Live,VST3,Plugin Loading,Pass,5
+280,6,2026-03-25,macOS 14,Pro Tools,AAX,Audio Processing,Pass,19
+281,6,2026-02-01,Windows 10,Ableton Live,VST3,Audio Processing,Pass,25
+282,6,2025-12-28,Windows 10,Pro Tools,AAX,Plugin Scan,Pass,10
+283,6,2025-12-01,macOS 14,Logic Pro,AU,GUI,Pass,20
+284,6,2026-03-07,Windows 10,Pro Tools,AAX,Plugin Loading,Fail,12
+285,6,2025-11-18,Windows 10,REAPER,VST3,Session Recall,Pass,20
+286,6,2026-02-05,macOS 15,Pro Tools,AAX,Automation,Pass,19
+287,6,2026-02-27,Windows 11,REAPER,VST3,Presets,Pass,11
+288,6,2026-03-22,Windows 10,Pro Tools,AAX,Presets,Pass,18
+289,6,2026-01-02,Windows 10,Ableton Live,VST3,Session Recall,Pass,18
+290,6,2026-01-01,macOS 15,Pro Tools,AAX,GUI,Pass,16
+291,6,2026-03-09,macOS 15,Logic Pro,AU,Presets,Pass,12
+292,6,2026-02-20,macOS 15,Logic Pro,AU,Compatibility,Pass,25
+293,6,2025-10-10,macOS 14,Ableton Live,VST3,Presets,Pass,8
+294,6,2026-02-09,Windows 11,Pro Tools,AAX,Presets,Pass,17
+295,6,2026-03-01,Windows 11,REAPER,VST3,GUI,Pass,19
+296,6,2026-01-30,Windows 10,REAPER,VST3,Automation,Pass,19
+297,6,2025-12-18,macOS 14,Pro Tools,AAX,Audio Processing,Pass,30
+298,6,2026-02-26,macOS 15,Ableton Live,VST3,Installation,Pass,18
+299,6,2025-11-07,macOS 15,Ableton Live,VST3,Plugin Loading,Pass,11
+300,6,2025-10-05,macOS 14,Logic Pro,AU,Automation,Pass,16
+301,6,2025-10-16,Windows 10,Ableton Live,VST3,GUI,Pass,25
+302,6,2026-02-12,macOS 15,Pro Tools,AAX,Automation,Pass,25
+303,6,2025-12-30,Windows 10,REAPER,VST3,Presets,Pass,16
+304,6,2025-11-19,macOS 15,REAPER,VST3,CPU Performance,Pass,30
+305,6,2025-12-13,macOS 14,Logic Pro,AU,GUI,Pass,19
+306,6,2025-12-10,macOS 15,Ableton Live,VST3,Presets,Pass,20
+307,6,2025-12-28,Windows 11,Ableton Live,VST3,Automation,Pass,22
+308,6,2026-01-22,macOS 14,Ableton Live,VST3,GUI,Pass,21
+309,6,2025-11-05,macOS 15,Ableton Live,VST3,Session Recall,Pass,18
+310,6,2025-11-29,Windows 11,REAPER,VST3,Plugin Loading,Fail,13
+311,6,2026-02-18,Windows 11,Ableton Live,VST3,Audio Processing,Fail,16
+312,6,2026-01-31,macOS 14,Logic Pro,AU,Audio Processing,Pass,27
+313,6,2026-02-24,macOS 15,Ableton Live,VST3,GUI,Fail,17
+314,6,2025-11-15,Windows 11,REAPER,VST3,Session Recall,Fail,18
+315,6,2025-12-14,macOS 14,Logic Pro,AU,Session Recall,Pass,15
+316,6,2026-01-25,macOS 14,Logic Pro,AU,Automation,Fail,22
+317,6,2026-01-28,macOS 14,Pro Tools,AAX,Presets,Pass,16
+318,6,2025-11-17,Windows 11,REAPER,VST3,GUI,Pass,18
+319,6,2025-11-14,Windows 11,Pro Tools,AAX,GUI,Pass,16
+320,6,2026-03-21,macOS 15,Ableton Live,VST3,Presets,Pass,14
+321,6,2025-12-06,Windows 11,REAPER,VST3,Presets,Pass,8
+322,7,2026-01-23,Windows 10,Ableton Live,VST3,Plugin Loading,Pass,5
+323,7,2026-03-26,macOS 15,Ableton Live,VST3,Plugin Scan,Pass,11
+324,7,2026-02-20,macOS 14,REAPER,VST3,Audio Processing,Pass,21
+325,7,2026-03-04,macOS 15,Logic Pro,AU,Plugin Scan,Fail,16
+326,7,2026-01-20,macOS 15,REAPER,VST3,CPU Performance,Pass,39
+327,7,2026-02-18,macOS 15,Pro Tools,AAX,CPU Performance,Pass,31
+328,7,2026-01-08,Windows 11,Ableton Live,VST3,Installation,Pass,16
+329,7,2026-01-09,macOS 15,Logic Pro,AU,GUI,Pass,13
+330,7,2026-03-14,macOS 15,Pro Tools,AAX,Session Recall,Pass,11
+331,7,2025-11-23,Windows 11,Ableton Live,VST3,Automation,Pass,19
+332,7,2026-03-06,Windows 10,REAPER,VST3,Audio Processing,Pass,13
+333,7,2026-03-18,Windows 10,Pro Tools,AAX,Compatibility,Pass,17
+334,7,2026-03-05,Windows 11,Ableton Live,VST3,CPU Performance,Pass,38
+335,7,2026-02-22,Windows 10,REAPER,VST3,Presets,Pass,14
+336,7,2026-01-02,Windows 11,REAPER,VST3,Session Recall,Fail,21
+337,7,2025-11-23,macOS 14,Pro Tools,AAX,Plugin Scan,Pass,5
+338,7,2026-01-15,macOS 14,Pro Tools,AAX,Audio Processing,Pass,24
+339,7,2025-11-26,Windows 11,Pro Tools,AAX,GUI,Pass,13
+340,7,2026-01-18,macOS 14,Pro Tools,AAX,CPU Performance,Pass,15
+341,7,2025-11-30,Windows 11,Pro Tools,AAX,Installation,Pass,19
+342,7,2025-12-02,Windows 11,Pro Tools,AAX,Presets,Pass,20
+343,7,2026-02-08,Windows 11,REAPER,VST3,Plugin Loading,Pass,10
+344,7,2026-02-02,Windows 11,REAPER,VST3,Compatibility,Pass,28
+345,7,2026-03-07,Windows 11,Ableton Live,VST3,Automation,Pass,15
+346,7,2026-02-07,macOS 15,Logic Pro,AU,GUI,Pass,22
+347,7,2026-01-14,macOS 15,Pro Tools,AAX,GUI,Fail,26
+348,7,2026-03-03,Windows 11,Ableton Live,VST3,CPU Performance,Pass,32
+349,7,2025-12-08,macOS 14,Pro Tools,AAX,Plugin Scan,Fail,10
+350,7,2025-11-28,macOS 14,REAPER,VST3,Audio Processing,Fail,23
+351,7,2026-01-12,macOS 14,Logic Pro,AU,CPU Performance,Pass,32
+352,7,2026-01-11,Windows 10,REAPER,VST3,GUI,Pass,10
+353,7,2026-01-09,macOS 14,REAPER,VST3,Compatibility,Pass,22
+354,7,2026-02-17,Windows 10,Pro Tools,AAX,GUI,Fail,28
+355,7,2026-02-07,Windows 11,Pro Tools,AAX,Session Recall,Pass,25
+356,7,2025-12-25,macOS 14,Pro Tools,AAX,GUI,Pass,17
+357,7,2025-12-27,Windows 11,Ableton Live,VST3,Automation,Pass,19
+358,7,2026-03-23,Windows 11,Pro Tools,AAX,Automation,Fail,22
+359,7,2025-12-23,macOS 14,Ableton Live,VST3,Plugin Loading,Pass,7
+360,7,2025-12-03,macOS 15,Pro Tools,AAX,Compatibility,Pass,35
+361,7,2025-12-23,macOS 15,Ableton Live,VST3,CPU Performance,Fail,18
+362,7,2026-02-21,macOS 14,Logic Pro,AU,Audio Processing,Fail,31
+363,7,2025-11-22,Windows 11,Ableton Live,VST3,Compatibility,Pass,30
+364,7,2026-01-30,Windows 11,Ableton Live,VST3,Installation,Pass,12
+365,7,2025-12-15,Windows 11,REAPER,VST3,Audio Processing,Pass,17
+366,7,2026-02-16,macOS 14,Pro Tools,AAX,Plugin Loading,Pass,9
+367,7,2026-01-14,Windows 11,Ableton Live,VST3,GUI,Pass,17
+368,7,2025-11-26,Windows 11,REAPER,VST3,Plugin Scan,Pass,15
+369,7,2025-12-31,Windows 11,Ableton Live,VST3,Automation,Fail,15
+370,7,2025-11-28,Windows 11,REAPER,VST3,Audio Processing,Pass,15
+371,7,2025-11-29,Windows 11,REAPER,VST3,Audio Processing,Pass,20
+372,7,2026-02-06,macOS 14,Ableton Live,VST3,Automation,Pass,15
+373,7,2025-12-07,Windows 11,Pro Tools,AAX,Plugin Scan,Pass,11
+374,7,2026-02-24,Windows 11,Ableton Live,VST3,Automation,Pass,20
+375,7,2026-02-14,macOS 15,Logic Pro,AU,Compatibility,Pass,31
+376,7,2026-02-09,Windows 11,Ableton Live,VST3,Session Recall,Pass,22
+377,7,2026-02-22,Windows 11,Pro Tools,AAX,Compatibility,Pass,26
+378,7,2026-01-20,Windows 10,Ableton Live,VST3,Audio Processing,Fail,27
+379,7,2025-12-27,macOS 15,Logic Pro,AU,Plugin Scan,Pass,15
+380,7,2026-02-18,macOS 15,Logic Pro,AU,Plugin Scan,Fail,12
+381,7,2026-03-29,macOS 15,Logic Pro,AU,Plugin Scan,Pass,13
+382,7,2026-02-24,Windows 10,Pro Tools,AAX,GUI,Fail,26
+383,7,2026-01-19,Windows 11,Ableton Live,VST3,CPU Performance,Pass,32
+384,7,2026-03-24,macOS 15,Logic Pro,AU,GUI,Fail,21
+385,7,2026-01-21,Windows 11,Pro Tools,AAX,GUI,Fail,14
+386,7,2026-02-03,macOS 14,Ableton Live,VST3,Audio Processing,Pass,16
+387,7,2026-03-10,Windows 11,Ableton Live,VST3,Session Recall,Pass,20
+388,7,2026-02-02,Windows 10,REAPER,VST3,Session Recall,Pass,14
+389,7,2026-01-31,Windows 10,REAPER,VST3,Plugin Loading,Fail,13
+390,7,2026-02-26,macOS 15,Ableton Live,AU,CPU Performance,Pass,23
+391,7,2025-11-24,Windows 10,REAPER,VST3,Plugin Loading,Pass,7
+392,7,2025-12-05,macOS 14,Pro Tools,AAX,Audio Processing,Pass,21
+393,7,2026-01-21,macOS 14,Ableton Live,VST3,Presets,Pass,11
+394,7,2026-02-28,macOS 15,Ableton Live,AU,Installation,Pass,15
+395,7,2025-12-09,macOS 15,REAPER,AU,Presets,Fail,18
+396,8,2026-02-22,Windows 11,Pro Tools,AAX,Audio Processing,Pass,13
+397,8,2025-10-28,macOS 14,Ableton Live,VST3,CPU Performance,Pass,28
+398,8,2026-03-26,Windows 11,Pro Tools,AAX,Presets,Pass,17
+399,8,2025-12-28,macOS 15,Pro Tools,AAX,GUI,Pass,14
+400,8,2025-10-30,macOS 14,Pro Tools,AAX,GUI,Pass,12
+401,8,2025-12-29,macOS 14,Ableton Live,VST3,GUI,Pass,25
+402,8,2025-10-12,Windows 10,Ableton Live,VST3,Audio Processing,Pass,21
+403,8,2025-12-02,macOS 14,Logic Pro,AU,Session Recall,Pass,15
+404,8,2025-11-29,Windows 10,Ableton Live,VST3,GUI,Pass,24
+405,8,2026-01-24,macOS 15,Ableton Live,VST3,Audio Processing,Pass,18
+406,8,2026-02-25,macOS 15,Pro Tools,AAX,Audio Processing,Pass,14
+407,8,2025-10-30,Windows 11,REAPER,VST3,Plugin Loading,Pass,12
+408,8,2026-03-06,Windows 11,REAPER,VST3,Automation,Pass,22
+409,8,2026-03-22,Windows 10,Pro Tools,AAX,GUI,Pass,15
+410,8,2025-10-31,macOS 15,Logic Pro,AU,Audio Processing,Fail,18
+411,8,2026-03-02,Windows 11,Pro Tools,AAX,GUI,Fail,25
+412,8,2026-02-20,Windows 11,Ableton Live,VST3,Plugin Loading,Pass,7
+413,8,2025-12-31,Windows 11,Pro Tools,AAX,Plugin Loading,Pass,5
+414,8,2026-01-13,macOS 14,Pro Tools,AAX,Plugin Loading,Pass,12
+415,8,2026-02-22,macOS 15,Pro Tools,AAX,Session Recall,Pass,12
+416,8,2025-11-13,Windows 11,REAPER,VST3,GUI,Pass,19
+417,8,2025-10-29,macOS 15,Pro Tools,AAX,CPU Performance,Pass,31
+418,8,2026-01-21,macOS 15,Logic Pro,AU,Automation,Pass,11
+419,8,2025-10-09,macOS 15,REAPER,VST3,Session Recall,Pass,19
+420,8,2025-11-30,Windows 10,Pro Tools,AAX,CPU Performance,Pass,18
+421,8,2025-11-12,Windows 11,REAPER,VST3,Audio Processing,Pass,25
+422,8,2025-12-11,macOS 15,Ableton Live,AU,CPU Performance,Pass,32
+423,8,2025-12-08,macOS 15,Logic Pro,AU,Compatibility,Pass,33
+424,8,2026-01-14,macOS 14,Pro Tools,AAX,Session Recall,Pass,14
+425,8,2025-11-07,macOS 14,REAPER,AU,Plugin Scan,Pass,8
+426,8,2026-03-11,macOS 15,Ableton Live,VST3,Audio Processing,Pass,30
+427,8,2025-10-24,Windows 11,Ableton Live,VST3,Presets,Pass,20
+428,8,2026-02-02,Windows 10,REAPER,VST3,Audio Processing,Pass,26
+429,8,2026-01-26,Windows 10,Pro Tools,AAX,CPU Performance,Pass,38
+430,8,2025-11-24,macOS 15,Ableton Live,AU,CPU Performance,Pass,28
+431,8,2026-02-22,Windows 10,Pro Tools,AAX,GUI,Pass,14
+432,8,2026-01-26,macOS 14,Ableton Live,AU,CPU Performance,Fail,41
+433,8,2025-11-21,Windows 11,REAPER,VST3,Plugin Loading,Pass,11
+434,8,2025-10-24,macOS 14,REAPER,AU,GUI,Pass,18
+435,8,2025-10-14,macOS 15,Logic Pro,AU,GUI,Pass,15
+436,8,2026-03-30,Windows 10,Pro Tools,AAX,Audio Processing,Pass,14
+437,8,2026-03-24,Windows 11,Pro Tools,AAX,Plugin Scan,Pass,13
+438,8,2025-11-03,Windows 10,Pro Tools,AAX,GUI,Fail,28
+439,8,2025-12-20,Windows 10,Pro Tools,AAX,Plugin Scan,Pass,6
+440,8,2026-03-14,Windows 10,Pro Tools,AAX,GUI,Pass,14
+441,8,2025-12-29,macOS 14,Logic Pro,AU,Automation,Fail,18
+442,8,2025-10-23,macOS 15,Ableton Live,VST3,GUI,Pass,16
+443,8,2026-01-18,macOS 14,Logic Pro,AU,Plugin Scan,Pass,10
+444,8,2026-03-26,Windows 11,Pro Tools,AAX,GUI,Fail,25
+445,8,2026-01-09,Windows 11,REAPER,VST3,Session Recall,Pass,16
+446,8,2026-01-07,Windows 11,Pro Tools,AAX,Session Recall,Pass,25
+447,8,2026-01-01,Windows 11,Ableton Live,VST3,Automation,Pass,10
+448,8,2026-02-17,macOS 14,Logic Pro,AU,Session Recall,Pass,21
+449,8,2025-12-07,macOS 15,Ableton Live,AU,CPU Performance,Fail,17
+450,8,2026-03-10,Windows 11,REAPER,VST3,Compatibility,Pass,24
+451,1,2026-02-06,Windows 10,Ableton Live,VST3,Compatibility,Pass,23

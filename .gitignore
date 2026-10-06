@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Excel lock files
+~$*.xlsx
+
+# SQLite temporary files
+*.db-journal
+*.sqlite-journal
